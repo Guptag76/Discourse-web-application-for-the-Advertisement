@@ -76,10 +76,10 @@ For support, email maytaj3636@gmail.com
 ## Screenshots
 
 [home](https://drive.google.com/file/d/1JTuQffAmajMoSRRcvnruXhgHOJJf5hSr/view?usp=sharing)<br/>
-[signup](https://drive.google.com/file/d/1UgkdgzKNR0rq4ILFecskVPHW_Y2r1wXB/view?usp=sharing)
-[login](https://drive.google.com/file/d/1fCdlT7N2c16y2ZblcDKIOCeJZGgd3iSP/view?usp=sharing)
-[main page](https://drive.google.com/file/d/1HKJxhdSgpU8sQKeer6CVzkmWLrYUaH5Q/view?usp=sharing)
-[create Ad](https://drive.google.com/file/d/15Umi0C5GDHU4oHSA4MHxQS6SuSrd77NO/view?usp=sharing)
+[signup](https://drive.google.com/file/d/1UgkdgzKNR0rq4ILFecskVPHW_Y2r1wXB/view?usp=sharing)<br/>
+[login](https://drive.google.com/file/d/1fCdlT7N2c16y2ZblcDKIOCeJZGgd3iSP/view?usp=sharing)<br/>
+[main page](https://drive.google.com/file/d/1HKJxhdSgpU8sQKeer6CVzkmWLrYUaH5Q/view?usp=sharing)<br/>
+[create Ad](https://drive.google.com/file/d/15Umi0C5GDHU4oHSA4MHxQS6SuSrd77NO/view?usp=sharing)<br/>
 
 
 ## 🔗 Links
