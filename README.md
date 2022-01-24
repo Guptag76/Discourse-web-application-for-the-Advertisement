@@ -72,13 +72,15 @@ To run tests, run the following command
 For support, email maytaj3636@gmail.com
 
 
-## WebApp Screenshot
 
-![home](https://drive.google.com/file/d/1JTuQffAmajMoSRRcvnruXhgHOJJf5hSr/view?usp=sharing)
-![signup](https://drive.google.com/file/d/1UgkdgzKNR0rq4ILFecskVPHW_Y2r1wXB/view?usp=sharing)
-![login](https://drive.google.com/file/d/1fCdlT7N2c16y2ZblcDKIOCeJZGgd3iSP/view?usp=sharing)
-![main page](https://drive.google.com/file/d/1HKJxhdSgpU8sQKeer6CVzkmWLrYUaH5Q/view?usp=sharing)
-![create Ad](https://drive.google.com/file/d/15Umi0C5GDHU4oHSA4MHxQS6SuSrd77NO/view?usp=sharing)
+## Screenshots
+
+[home](https://drive.google.com/file/d/1JTuQffAmajMoSRRcvnruXhgHOJJf5hSr/view?usp=sharing)
+[signup](https://drive.google.com/file/d/1UgkdgzKNR0rq4ILFecskVPHW_Y2r1wXB/view?usp=sharing)
+[login](https://drive.google.com/file/d/1fCdlT7N2c16y2ZblcDKIOCeJZGgd3iSP/view?usp=sharing)
+[main page](https://drive.google.com/file/d/1HKJxhdSgpU8sQKeer6CVzkmWLrYUaH5Q/view?usp=sharing)
+[create Ad](https://drive.google.com/file/d/15Umi0C5GDHU4oHSA4MHxQS6SuSrd77NO/view?usp=sharing)
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kumar-03029916b/)
